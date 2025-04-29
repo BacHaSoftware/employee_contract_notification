@@ -24,5 +24,7 @@
     'application': True,
     'assets': {
     },
+    'author': 'Bac Ha Software',
+    'maintainer': 'Bac Ha Software',
     'license': 'LGPL-3'
 }
